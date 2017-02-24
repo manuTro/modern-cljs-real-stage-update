@@ -14,9 +14,9 @@
                  [org.clojure/tools.nrepl "0.2.12"]    ;; needed by bREPL
                  [org.clojars.magomimmo/domina "2.0.0-SNAPSHOT"]
                  [hiccups "0.3.0"]
-                 ;[compojure "1.4.0"]                   ;; for routing
-                ;  [org.clojars.magomimmo/shoreleave-remote-ring "0.3.1"]
-                ;  [org.clojars.magomimmo/shoreleave-remote "0.3.1"]
+                 [compojure "1.5.2"]                   ;; for routing
+                 [org.clojars.magomimmo/shoreleave-remote-ring "0.3.3"]
+                 [org.clojars.magomimmo/shoreleave-remote "0.3.1"]
                  [javax.servlet/servlet-api "2.5"]
                  ])
 
